@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aga/Dokumenty/studia/IV sem/C++/Temat 2/main.cpp
+obiekty.h
+/home/aga/Dokumenty/studia/IV sem/C++/Temat 2/obiekty.h
+
+/home/aga/Dokumenty/studia/IV sem/C++/Temat 2/obiekty.cpp
+obiekty.h
+/home/aga/Dokumenty/studia/IV sem/C++/Temat 2/obiekty.h
+
+/home/aga/Dokumenty/studia/IV sem/C++/Temat 2/obiekty.h
+iostream
+-
+iomanip
+-
+math.h
+-
+

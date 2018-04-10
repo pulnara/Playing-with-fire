@@ -1,0 +1,3 @@
+/home/aga/Dokumenty/studia/IV sem/C++/Temat 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aga/Dokumenty/studia/IV sem/C++/Temat 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aga/Dokumenty/studia/IV sem/C++/Temat 2/cmake-build-debug/CMakeFiles/Temat_2.dir

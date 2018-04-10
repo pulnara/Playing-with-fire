@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aga/Dokumenty/studia/IV sem/C++/zadanie3/classes.cpp
+classes.h
+/home/aga/Dokumenty/studia/IV sem/C++/zadanie3/classes.h
+
+/home/aga/Dokumenty/studia/IV sem/C++/zadanie3/classes.h
+cstdlib
+-
+stdexcept
+-
+string
+-
+iostream
+-
+
+/home/aga/Dokumenty/studia/IV sem/C++/zadanie3/main.cpp
+iostream
+-
+classes.h
+/home/aga/Dokumenty/studia/IV sem/C++/zadanie3/classes.h
+
