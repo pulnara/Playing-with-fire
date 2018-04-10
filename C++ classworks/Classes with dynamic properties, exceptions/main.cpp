@@ -64,5 +64,7 @@ int main() {
         cout << "Error: " << e.what();
     }
 
+    // Polygon p = 7;       // doesn't work because of explicit!
+
     return 0;
 }
